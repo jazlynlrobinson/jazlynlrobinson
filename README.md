@@ -5,7 +5,7 @@ href="https://www.linkedin.com/in/jazlyn-robinson/">Data Analyst</a>
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾Power BI Project</b>
-  - [Executive Box Office Sales Dashboard]([https://github.com/jazlynlrobinson/SQL_Techniques/tree/main](https://app.powerbi.com/view?r=eyJrIjoiY2MzMDcyZGMtMzZjNi00M2RhLTkwNTAtNDdjMWEyYzkzOGFkIiwidCI6IjczZjIxYzJjLTJkZDctNDFlMC05ZThiLTE5OGRmNjUyMWZkYSIsImMiOjF9))
+  - [Executive Box Office Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2MzMDcyZGMtMzZjNi00M2RhLTkwNTAtNDdjMWEyYzkzOGFkIiwidCI6IjczZjIxYzJjLTJkZDctNDFlMC05ZThiLTE5OGRmNjUyMWZkYSIsImMiOjF9)
 
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques](https://github.com/jazlynlrobinson/SQL_Techniques/tree/main)
