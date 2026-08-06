@@ -8,7 +8,7 @@ href="https://www.linkedin.com/in/jazlyn-robinson/">Data Analyst</a>
   - [Executive Box Office Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2MzMDcyZGMtMzZjNi00M2RhLTkwNTAtNDdjMWEyYzkzOGFkIiwidCI6IjczZjIxYzJjLTJkZDctNDFlMC05ZThiLTE5OGRmNjUyMWZkYSIsImMiOjF9)
 
 - <b>💾SQL Projects</b>
-  - [Food and Beverage Revenue Analysis for Arts Nonprofit]()
+  - [Food and Beverage Revenue Analysis for Arts Nonprofit](https://github.com/jazlynlrobinson/Food_Beverage_Revenue_Analysis_for_Arts_Nonprofit/tree/main)
   - [Demonstrating SQL Techniques](https://github.com/jazlynlrobinson/SQL_Techniques/tree/main)
 
 
