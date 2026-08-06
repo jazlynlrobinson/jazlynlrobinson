@@ -4,6 +4,9 @@ href="https://www.linkedin.com/in/jazlyn-robinson/">Data Analyst</a>
 
 <h2>📊Data Analytics Projects:</h2>
 
+- <b>💾Power BI Project</b>
+  - [Executive Box Office Sales Dashboard]([https://github.com/jazlynlrobinson/SQL_Techniques/tree/main](https://app.powerbi.com/view?r=eyJrIjoiY2MzMDcyZGMtMzZjNi00M2RhLTkwNTAtNDdjMWEyYzkzOGFkIiwidCI6IjczZjIxYzJjLTJkZDctNDFlMC05ZThiLTE5OGRmNjUyMWZkYSIsImMiOjF9))
+
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques](https://github.com/jazlynlrobinson/SQL_Techniques/tree/main)
 
@@ -11,6 +14,9 @@ href="https://www.linkedin.com/in/jazlyn-robinson/">Data Analyst</a>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
   - [Demonstrated proficiency in SQL across foundational and intermediate use cases](https://www.virtualbadge.io/certificate-validator?credential=ea1a0d43-e697-4940-a7ac-7386f9c52583)
+ 
+- <b>📜Data Analytics Career Accelerator Program </b>
+  - [Demonstrated proficiency in SQL across foundational and intermediate use cases]([https://www.virtualbadge.io/certificate-validator?credential=ea1a0d43-e697-4940-a7ac-7386f9c52583](https://www.virtualbadge.io/certificate-validator?credential=80b38c07-e8c2-46d4-8580-b5d8bda1ae50))
 
 
 <h2>📱Connect with me:</h2>
